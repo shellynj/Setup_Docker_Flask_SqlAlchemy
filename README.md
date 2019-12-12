@@ -16,13 +16,18 @@ You can use this as the basis for the 3 part tutorial, since the tutorial doesn'
 You need to submit a direct link to your branch on Github.
 
 
-## Python File: 
+|Filename|Link to file (click each link to view)|
+|-----|-------|
+|requirements.txt|[requirements.txt file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/requirements.txt)|
+|__init__.py|[__init__.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/__init__.py)|
+|config.py|[config.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/config.py)|
+|database.conf|[database.conf file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/database.conf)|
+|models.py|[models.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/models.py)|
+|app.py|[app.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/app.py)|
+|docker-compose.yml|[docker-compose.yml file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/docker-compose.yml)|
+|database.py|[database.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/database.py)|
 
-https://github.com/shellynj/Dbase_SQLAlchemy_HMWK/blob/master/sql_alchemy_db.py
 
-## Run Output File: 
-
-https://github.com/shellynj/Dbase_SQLAlchemy_HMWK/blob/master/run_output.txt
 
 
 
