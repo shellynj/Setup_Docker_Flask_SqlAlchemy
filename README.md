@@ -7,8 +7,8 @@ Tutorial on getting Docker, Flask Postgres and SQLalchemy working Together
 
 ### Objective:
 
-Complete this tutorial on getting Docker, Flask, Postgres and SQLalchemy working together:
-
+Complete this tutorial on getting Docker, Flask, Postgres and SQLalchemy working together:  
+"Simple App with Flask, SQLAlchemy and Docker"  
 https://medium.com/@hmajid2301/implementing-sqlalchemy-with-docker-cb223a8296de (Links to an external site.)
 
 You can use this as the basis for the 3 part tutorial, since the tutorial doesn't cover getting Docker, Flask, and Postgres setup.
