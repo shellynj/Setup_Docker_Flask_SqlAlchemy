@@ -28,7 +28,7 @@ You need to submit a direct link to your branch on Github.
 |database.py|[database.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/database.py)|
 
 ### Output:
-####Running our application  
+#### Running our application  
 * Docker Compose output:  
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 docker_compose_up_build.png
