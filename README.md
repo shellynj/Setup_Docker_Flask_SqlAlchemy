@@ -34,9 +34,7 @@ You need to submit a direct link to your branch on Github.
 ![](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/images/docker_compose_up_build.png)
 
 
-* Start Flask app: (Run FLASK_APP=app.py, flask run)  
 
-![](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/images/successful_part_2__sample_endpoint_working.png)
 
 
 
