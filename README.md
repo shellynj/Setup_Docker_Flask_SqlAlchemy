@@ -30,12 +30,12 @@ You need to submit a direct link to your branch on Github.
 ### Output:
 #### Running the application  
 * Docker Compose output:  
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/docker_compose_up_build.png)
-docker_compose_up_build.png
+![](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/tree/master/src/images/docker_compose_up_build.png)
+
 
 * Start Flask app: (Run FLASK_APP=app.py, flask run)
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-docker_compose_up_build.png
+![](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/tree/master/src/images/docker_compose_up_build.png)
+
 
 * Database 
 
